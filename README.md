@@ -1,5 +1,5 @@
 # TuckShop
-An interface for cashier-billing that manages the order, saves them in a file and generates a bill receipt..
+An interface for cashier-billing that manages the order, saves them in a file and generates a bill receipt.
 
 ## Description
 Are you a food truck owner looking to streamline your operations and provide a seamless ordering experience for your customers? Look no further! Our "TuckShop: Cashier-Bill Management System" is here to revolutionize the way you manage orders and generate bills.
